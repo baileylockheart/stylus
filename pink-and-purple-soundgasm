@@ -1,0 +1,75 @@
+/* ==UserStyle==
+@name           Pink and Purple [Soundgasm]
+@namespace      https://userstyles.world/style/13157/pink-and-purple-soundgasm
+@version        0.1.0
+@description    A pink and purple theme for Soundgasm!
+@author         Bailey Lockheart
+==/UserStyle== */
+
+@-moz-document domain("soundgasm.net") {
+body {
+  background-color: #D9A8E2;
+}
+nav {
+  text-align: center;
+  padding: 20px;
+  margin-top: -40px;
+  background-color: #AF6F8D;
+  border-radius: 15px;
+}
+nav a {
+  color: #D9A8E2;
+  font-size: 20px;
+  background-color: #820bcc;
+  border: solid #6C00AF;
+  border-radius: 15px;
+  margin: 5px;
+}
+nav a:hover {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease-out;
+  transform: scale(1.05);
+}
+.sound-details,
+#container {
+  border: 2px solid #AF6F8D;
+  background-color: #DBBAED;
+  border-radius: 15px;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #820bcc;
+  font-size: 30px;
+}
+.sound-details {
+  border: 2px solid #AF6F8D;
+  background-color: #DBBAED;
+}
+.sound-details a,
+body > div > a {
+  color: #6C00AF;
+}
+.sound-details a:hover,
+body > div > a:hover {
+  -webkit-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+  color: #AF6F8D;
+}
+.jp-audio {
+  background-color: #DBBAED;
+  border: 2px solid #AF6F8D;
+  padding: 5px;
+  border-radius: 15px;
+}
+.jp-title {
+  background-color: #AF6F8D;
+  border-radius: 10px;
+  color: #D9A8E2;
+}
+button {
+  border-radius: 10px;
+}
+}
