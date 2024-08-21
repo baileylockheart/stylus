@@ -1,4 +1,5 @@
 # Stylus Themes by Bailey Lockheart
+## Warning: The Threads ones are all out of date, I need to update them!! sorry ㅠㅠ 
 Stylus is a browser extension that allows you to change the themeing of a website! These are some themes that I've made! All you have to do is:
 
 - Install [Stylus](https://add0n.com/stylus.html)
