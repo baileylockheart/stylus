@@ -1,5 +1,4 @@
 # Stylus Themes by Bailey Lockheart
-## Warning: The Threads ones are all out of date, I need to update them!!
 Stylus is a browser extension that allows you to change the themeing of a website! These are some themes that I've made! All you have to do is:
 
 - Install [Stylus](https://add0n.com/stylus.html)
@@ -8,18 +7,6 @@ Stylus is a browser extension that allows you to change the themeing of a websit
 .・。.・゜✭・.・✫・゜・。. 
 
 # Themes ♥
-
-## Pink and Purple [Soundgasm]
-![pink and purple soundgasm theme preview image](https://raw.githubusercontent.com/baileylockheart/stylus/main/images/pink-and-purple-soundgasm.png)
-A pink and purple theme for Soundgasm! I got a liiiittle bit annoyed with how empty the UI looked, so I decided to make it a little nicer :D
-
-[![](https://img.shields.io/badge/Install_directly_with-Stylus-teal)](https://raw.githubusercontent.com/baileylockheart/stylus/main/pink-and-purple-soundgasm.user.styl)
-
-## Pink and Black [Tumblr] [Tweaked]
-![pink and black tumblr tweaked theme preview image](https://raw.githubusercontent.com/baileylockheart/stylus/main/images/pink-and-black-tumblr-tweaked.png)
-An altered version of "pink and black tumblr" by lesbianism! I loved the color palette of the [original theme](https://userstyles.world/style/12955/pink-and-black-tumblr), but there were a few elements I wanted to change about Tumblr, itself, and a few things that I wanted to color, as well!
-
-[![](https://img.shields.io/badge/Install_directly_with-Stylus-teal)](https://raw.githubusercontent.com/baileylockheart/stylus/main/pink-and-black-tumblr-tweaked.user.styl)
 
 ## Pink and Purple [Threads]
 ![pink and purple threads theme preview image](https://raw.githubusercontent.com/baileylockheart/stylus/main/images/pink-and-purple-threads.png)
@@ -50,3 +37,16 @@ A theme based on Tumblr's Vampire theme, best used in Threads's dark mode! Some 
 A theme based on Tumblr's Canary theme, best used in Threads's light mode! I already made a handful of dark themes, so I wanted to make another option :’) Be warned, polls are a little weird with this one.
 
 [![](https://img.shields.io/badge/Install_directly_with-Stylus-teal)](https://raw.githubusercontent.com/baileylockheart/stylus/main/canary-threads.user.styl)
+
+## Pink and Purple [Soundgasm]
+![pink and purple soundgasm theme preview image](https://raw.githubusercontent.com/baileylockheart/stylus/main/images/pink-and-purple-soundgasm.png)
+A pink and purple theme for Soundgasm! I got a liiiittle bit annoyed with how empty the UI looked, so I decided to make it a little nicer :D
+
+[![](https://img.shields.io/badge/Install_directly_with-Stylus-teal)](https://raw.githubusercontent.com/baileylockheart/stylus/main/pink-and-purple-soundgasm.user.styl)
+
+## Pink and Black [Tumblr] [Tweaked]
+![pink and black tumblr tweaked theme preview image](https://raw.githubusercontent.com/baileylockheart/stylus/main/images/pink-and-black-tumblr-tweaked.png)
+An altered version of "pink and black tumblr" by lesbianism! I loved the color palette of the [original theme](https://userstyles.world/style/12955/pink-and-black-tumblr), but there were a few elements I wanted to change about Tumblr, itself, and a few things that I wanted to color, as well!
+
+[![](https://img.shields.io/badge/Install_directly_with-Stylus-teal)](https://raw.githubusercontent.com/baileylockheart/stylus/main/pink-and-black-tumblr-tweaked.user.styl)
+
