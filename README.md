@@ -3,6 +3,9 @@ Stylus is a browser extension that allows you to change the themeing of a websit
 
 - Install [Stylus](https://add0n.com/stylus.html)
 - And take a look through these themes, and see if they're what you'd like!
+- And if you REALLY like them...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O518XBJA)
 
 .・。.・゜✭・.・✫・゜・。. 
 
